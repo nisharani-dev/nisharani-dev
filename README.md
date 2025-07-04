@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nisha 👋
+
+🎓 Engineering Student | Electronics & Communication + AI  
+🌱 Currently exploring Computer Vision, AI, and Software Development  
+💻 Currently interning and working on real-world projects as a Data Analytics trainee using tools like Excel, Tableau, and Python
+
+## 🚀 Projects I'm working on:
+- 🎯 Face Mask Detection using Deep Learning (in progress)
+- 📊 Data Visualization with Tableau (Hiring Dataset)
+- 📷 React and Flutter mini Projects (Coming Soon)
+
+## 📚 Current Learning Goals
+- Git & GitHub
+- Python + DSA
+- Computer Vision & ML
+
+## 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/nisha-rani-7609b02a8//)  
+- 📬 nisharani17112004@gmail.com (optional)
+
+---
+🌟 Let’s build and grow—one commit at a time!
 
 <!--
 **nisharani-dev/nisharani-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
