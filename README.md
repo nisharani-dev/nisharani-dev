@@ -5,7 +5,7 @@
 💻 Currently interning and working on real-world projects as a Data Analytics trainee using tools like Excel, Tableau, and Python
 
 ## 🚀 Projects I'm working on:
-- 🎯 Face Mask Detection using Deep Learning (in progress)
+- 🎯 Face Mask Detection using Deep Learning (Completed)
 - 📊 Data Visualization with Tableau (Hiring Dataset)
 - 📷 React and Flutter mini Projects (Coming Soon)
 
