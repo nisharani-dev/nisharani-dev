@@ -6,6 +6,8 @@
 
 ## 🚀 Projects I'm working on:
 - 🎯 Face Mask Detection using Deep Learning (Completed)
+- Emotion detection using Deep Learning (Completed)
+- Real vs AI image classification using Deep Learning (In-Progress)
 - 📊 Data Visualization with Tableau (Hiring Dataset)
 - 📷 React and Flutter mini Projects (Coming Soon)
 
