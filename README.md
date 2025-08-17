@@ -8,6 +8,7 @@
 - 🎯 Face Mask Detection using Deep Learning (Completed)
 - Emotion detection using Deep Learning (Completed)
 - Real vs AI image classification using Deep Learning (In-Progress)
+- Contirbuted in a development of Quiz (Generative AI)
 - 📊 Data Visualization with Tableau (Hiring Dataset)
 - 📷 React and Flutter mini Projects (Coming Soon)
 
