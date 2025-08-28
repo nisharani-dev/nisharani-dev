@@ -17,7 +17,7 @@
 - Git & GitHub
 - Python + DSA(C++)
 - Computer Vision & ML
-- Flutter
+- Flutter & Dart
 
 ## 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/nisha-rani-7609b02a8//)  
