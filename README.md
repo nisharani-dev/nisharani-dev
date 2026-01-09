@@ -2,7 +2,7 @@
 
 🎓 Engineering Student | Electronics & Communication + AI  
 🌱 Currently exploring Computer Vision, AI, and Software Development  
-💻 Currently interning and working on real-world projects as a Data Analytics trainee using tools like Excel, Tableau, and Python
+💻 Interned and worked on real-world projects as a Data Analytics trainee using tools like Excel, Tableau, and Python
 
 ## 🚀 Projects I'm working on:
 - 🎯 Face Mask Detection using Deep Learning (Completed)
