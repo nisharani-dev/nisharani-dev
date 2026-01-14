@@ -1,4 +1,4 @@
-# Hi, I'm Nisha 👋
+# Hi, I'm Nisha
 
 🎓 Engineering Student | Electronics & Communication + AI  
 🌱 Currently exploring Computer Vision, AI, and Software Development  
