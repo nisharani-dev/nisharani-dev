@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=7B9FEA&center=true&vCenter=true&width=600&lines=Nisha+Rani;ECE+%7C+AI+Specialization+%40+IGDTUW;Computer+Vision+%7C+Edge+AI+%7C+Hardware-SW+Co-design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=7B9FEA&center=true&vCenter=true&width=600&lines=Nisha+Rani;ECE+%7C+AI+Specialization+%40+IGDTUW;Computer+Vision+%7C+Edge+AI+%7C+Agentic+AI)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nisharani-dev&color=7B9FEA&style=flat-square)](https://github.com/nisharani-dev)
 [![GitHub followers](https://img.shields.io/github/followers/nisharani-dev?style=flat-square&color=7B9FEA)](https://github.com/nisharani-dev)
@@ -13,9 +13,9 @@
 
 ```
 🎓  B.Tech ECE (AI Specialization) · IGDTUW, Delhi
-🔬  Research interests: Computer Vision, Edge AI, Hardware-Software Co-design
-📡  Working on UAV-based small object detection · VisDrone2019-DET · YOLOv8 + CBAM
-📄  2× Conference Publications (CCSN 2025 · ICASET 2026)
+🔬  Research: Computer Vision · Edge AI · Hardware-Software Co-design · Agentic AI
+📡  Active: UAV small object detection · VisDrone2019-DET · YOLOv8n + CBAM
+📄  2× Conference Publications — CCSN 2025 · ICASET 2026
 🛰  Exploring attention mechanisms, pseudo-labeling pipelines & Grad-CAM interpretability
 📫  Reach me at: [your-email@example.com]
 ```
@@ -25,17 +25,33 @@
 <!-- Active Research -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=A3C4F3&center=true&vCenter=true&width=500&lines=⚗️+Active+Research+%26+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=A3C4F3&center=true&vCenter=true&width=500&lines=🟢+Active+Investigations)](https://git.io/typing-svg)
 
 </div>
 
-| Mission | Domain | Status |
+| Project | Domain | Stack |
 |---|---|---|
-| 🛰 UAV Small Object Detection (VisDrone) | Computer Vision · YOLOv8n + CBAM | 🟢 Active |
-| 🧠 Skin Cancer Classification + SRAM Study | Edge AI · EfficientNet-B0 · HAM10000 | 🟡 In Progress |
-| 🚁 Drone-based Transmission Line Inspection | YOLOv8 · Detectron2 · Instance Seg. | ✅ Completed |
-| 🚦 Road Traffic Congestion Analysis | Deep Learning · Published @ CCSN 2025 | ✅ Published |
-| 🖼 Hybrid CNN for AI-Generated Image Detection | CNN · Forensics · Submitted @ ICASET 2026 | 📤 Under Review |
+| 🛰 UAV Small Object Detection (VisDrone) | Computer Vision · Aerial Imagery | YOLOv8n · CBAM · Pseudo-labeling · Grad-CAM |
+| 🧬 Skin Cancer Classification + SRAM Study | Edge AI · Medical Imaging · Hardware | EfficientNet-B0 · HAM10000 · OpenRAM · NGSpice |
+| 🤖 AI Boardroom — Multi-Agent System | Agentic AI · LLM Orchestration | Multi-Agent Framework · Role-based Agents · LangChain |
+
+---
+
+<!-- Past Work -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=A3C4F3&center=true&vCenter=true&width=500&lines=✅+Past+Work+%26+Deep+Learning+Projects)](https://git.io/typing-svg)
+
+</div>
+
+| Project | Domain | Stack |
+|---|---|---|
+| 🚦 Road Traffic Congestion Analysis | Traffic Modelling · Deep Learning | CNN · CV · Published @ CCSN 2025 |
+| 🖼 Hybrid CNN — AI-Generated Image Detection | Image Forensics · CNN | Hybrid CNN · Presented @ ICASET 2026 |
+| 📊 [Your ML Project] | Machine Learning | — |
+| 🧠 [Your DL Project] | Deep Learning | — |
+
+> *Add your other ML/DL repos here — ping me with names and I'll fill these in!*
 
 ---
 
@@ -46,8 +62,8 @@
 
 </div>
 
-- **Road Traffic Congestion Analysis using Deep Learning** — *CCSN 2025*
-- **Hybrid CNN Framework for Detection of AI-Generated Imagery** — *ICASET 2026 (Under Review)*
+- **Road Traffic Congestion Analysis using Deep Learning** — *Pre-proceedings · CCSN 2025*
+- **Hybrid CNN Framework for Detection of AI-Generated Imagery** — *Presented · ICASET 2026*
 
 ---
 
@@ -72,8 +88,9 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-`Computer Vision` · `Attention Mechanisms (CBAM)` · `Object Detection` · `Edge AI Inference` · `Grad-CAM` · `Pseudo-labeling`
+`Computer Vision` · `Attention Mechanisms (CBAM)` · `Object Detection` · `Edge AI` · `Grad-CAM` · `Pseudo-labeling` · `Multi-Agent Systems` · `Agentic AI`
 
 **Hardware & EDA**
 
