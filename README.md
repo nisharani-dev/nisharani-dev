@@ -3,9 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=7B9FEA&center=true&vCenter=true&width=600&lines=Nisha+Rani;ECE+%7C+AI+Specialization+%40+IGDTUW;Computer+Vision+%7C+Edge+AI+%7C+Hardware-SW+Co-design)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nishrani-dev&color=7B9FEA&style=flat-square)](https://github.com/nishrani-dev)
-[![GitHub followers](https://img.shields.io/github/followers/nishrani-dev?style=flat-square&color=7B9FEA)](https://github.com/nishrani-dev)
-[![GitHub stars](https://img.shields.io/github/stars/nishrani-dev?style=flat-square&color=7B9FEA)](https://github.com/nishrani-dev)
+[![Profile Views](https://komarev.com/ghpvc/?username=nisharani-dev&color=7B9FEA&style=flat-square)](https://github.com/nisharani-dev)
+[![GitHub followers](https://img.shields.io/github/followers/nisharani-dev?style=flat-square&color=7B9FEA)](https://github.com/nisharani-dev)
+[![GitHub stars](https://img.shields.io/github/stars/nisharani-dev?style=flat-square&color=7B9FEA)](https://github.com/nisharani-dev)
 
 </div>
 
@@ -96,8 +96,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=A3C4F3&center=true&vCenter=true&width=500&lines=📊+GitHub+Stats)](https://git.io/typing-svg)
 
-![Nisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishrani-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B9FEA&icon_color=A3C4F3)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishrani-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B9FEA)
+![Nisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisharani-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B9FEA&icon_color=A3C4F3)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nisharani-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B9FEA)
 
 </div>
 
@@ -110,7 +110,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishrani-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nisharani-dev)
 
 </div>
 
