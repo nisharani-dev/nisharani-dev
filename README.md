@@ -22,7 +22,7 @@
 
 ---
 
-<!-- Active Research -->
+<!-- Active -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=A3C4F3&center=true&vCenter=true&width=500&lines=🟢+Active+Investigations)](https://git.io/typing-svg)
@@ -31,31 +31,34 @@
 
 | Project | Domain | Stack |
 |---|---|---|
-| 🛰 UAV Small Object Detection (VisDrone) | Computer Vision · Aerial Imagery | YOLOv8n · CBAM · Pseudo-labeling · Grad-CAM |
-| 🧬 Skin Cancer Classification + SRAM Study | Edge AI · Medical Imaging · Hardware | EfficientNet-B0 · HAM10000 · OpenRAM · NGSpice |
-| 🤖 AI Boardroom — Multi-Agent System | Agentic AI · LLM Orchestration | Multi-Agent Framework · Role-based Agents · LangChain |
+| 🛰 [aerial-object-detection-research](https://github.com/nisharani-dev/aerial-object-detection-research) | Computer Vision · UAV Imagery | YOLOv8n · CBAM · Pseudo-labeling · Grad-CAM |
+| 🧬 [HAM10000](https://github.com/nisharani-dev/HAM10000) — Skin Cancer Classification + SRAM Study | Edge AI · Medical Imaging · Hardware | EfficientNet-B0 · OpenRAM · NGSpice |
+| 🤖 [opalite.io](https://github.com/nisharani-dev/opalite.io) — AI Boardroom | Agentic AI · LLM Orchestration | Multi-Agent · CEO/CTO/Finance/Marketing Agents · LangChain · Python |
 
 ---
 
 <!-- Past Work -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=A3C4F3&center=true&vCenter=true&width=500&lines=✅+Past+Work+%26+Deep+Learning+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=A3C4F3&center=true&vCenter=true&width=500&lines=🗂+Past+Work+%26+Projects)](https://git.io/typing-svg)
 
 </div>
 
 | Project | Domain | Stack |
 |---|---|---|
-| 🚦 Road Traffic Congestion Analysis | Traffic Modelling · Deep Learning | CNN · CV · Published @ CCSN 2025 |
-| 🖼 Hybrid CNN — AI-Generated Image Detection | Image Forensics · CNN | Hybrid CNN · Presented @ ICASET 2026 |
-| 📊 [Your ML Project] | Machine Learning | — |
-| 🧠 [Your DL Project] | Deep Learning | — |
-
-> *Add your other ML/DL repos here — ping me with names and I'll fill these in!*
+| 🚦 Road Traffic Congestion Analysis | Traffic · Deep Learning | CNN · Published @ CCSN 2025 |
+| 🖼 [real_vs_ai_image_classifier](https://github.com/nisharani-dev/real_vs_ai_image_classifier) — Hybrid CNN | Image Forensics | CNN · Presented @ ICASET 2026 |
+| 😷 [mask-detection-project](https://github.com/nisharani-dev/mask-detection-project) | Computer Vision | OpenCV · CNN · Jupyter |
+| 😐 [emotion-detection-project](https://github.com/nisharani-dev/emotion-detection-project) | Computer Vision · Affective Computing | CNN · Jupyter |
+| 🏥 [Disease_predictor_project](https://github.com/nisharani-dev/Disease_predictor_project) | ML · Healthcare | scikit-learn · Jupyter |
+| 📝 [custom-quiz-generator](https://github.com/nisharani-dev/custom-quiz-generator) | NLP · LLM Application | Python |
+| 📊 [Manager-Feedback-Dashboard](https://github.com/nisharani-dev/Manager-Feedback-Dashboard) | Data Viz · Frontend | Dashboard |
+| 🌊 [Waves](https://github.com/nisharani-dev/Waves_Proj) — [Pipeline Leak Detection 🔗](https://waves-proj.onrender.com) | IoT · Full-Stack · Mobile | Flutter · Node.js · Express · Supabase · JWT · Arduino |
+| ⚡ [ElectroBits](https://github.com/nisharani-dev/Electrobits_SIH) — [IoT Power Line Monitor 🔗](https://electrobits-sih.onrender.com) | IoT · Real-time Systems · Hardware | Arduino · Node.js · Socket.IO · Chart.js · HC-05 · MPU-6050 |
 
 ---
 
-<!-- Research Work -->
+<!-- Publications -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=A3C4F3&center=true&vCenter=true&width=500&lines=📄+Publications)](https://git.io/typing-svg)
@@ -78,6 +81,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white)
 
 **AI / ML**
@@ -90,7 +94,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-`Computer Vision` · `Attention Mechanisms (CBAM)` · `Object Detection` · `Edge AI` · `Grad-CAM` · `Pseudo-labeling` · `Multi-Agent Systems` · `Agentic AI`
+`Computer Vision` · `Object Detection` · `Attention Mechanisms (CBAM)` · `Emotion & Mask Detection` · `Medical Imaging` · `Edge AI` · `Grad-CAM` · `Pseudo-labeling` · `Multi-Agent Systems` · `NLP`
 
 **Hardware & EDA**
 
@@ -105,6 +109,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![FiftyOne](https://img.shields.io/badge/FiftyOne-FF6347?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
