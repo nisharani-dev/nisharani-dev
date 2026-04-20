@@ -55,7 +55,7 @@
 
 ---
 
-<!-- Publications -->
+<!-- Research Work -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=A3C4F3&center=true&vCenter=true&width=500&lines=📄+Publications)](https://git.io/typing-svg)
