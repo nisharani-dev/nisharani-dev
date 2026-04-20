@@ -17,7 +17,6 @@
 📡  Active: UAV small object detection · VisDrone2019-DET · YOLOv8n + CBAM
 📄  2× Conference Publications — CCSN 2025 · ICASET 2026
 🛰  Exploring attention mechanisms, pseudo-labeling pipelines & Grad-CAM interpretability
-📫  Reach me at: [your-email@example.com]
 ```
 
 ---
