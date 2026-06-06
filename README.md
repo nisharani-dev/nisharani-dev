@@ -10,12 +10,21 @@
 
 ---
 
+<pre>
+institution   B.Tech ECE (AI Specialization) · IGDTUW, Delhi
+research      Neuromorphic Computing · Edge AI · Agentic AI · Hardware-Software Co-design
+publications  2× Conference — CCSN 2025 · ICASET 2026
+interests     SNN-CNN tradeoffs · FPGA inference · Hierarchical memory systems
+</pre>
+
+---
+
 ## Active
 
 | Project | Domain | Stack |
 |---|---|---|
-| [HAM10000](https://github.com/nisharani-dev/HAM10000) — Skin Cancer Classification + SRAM Study | Edge AI · Medical Imaging · Hardware | EfficientNet-B0 · OpenRAM · NGSpice |
-| [opalite.io](https://github.com/nisharani-dev/opalite.io) — AI Boardroom | Agentic AI · LLM Orchestration | Multi-Agent · LangChain · Python |
+| BloodMNIST SNN-FPGA — CNN-to-SNN conversion & FPGA deployment for low-power medical inference | Neuromorphic Computing · Edge AI · Medical Imaging | EfficientNet-B0 · snnTorch · hls4ml · Vivado · Verilog |
+| [nexacore-ai-agent](https://github.com/nisharani-dev/nexacore-ai-agent) — Ramp: hierarchical onboarding memory agent | Agentic AI · LLM Systems | FastAPI · LangChain · Groq · React · WebSocket |
 
 ## Past Work
 
@@ -33,23 +42,23 @@
 
 ## Publications
 
-**Road Traffic Congestion Analysis using Deep Learning**
+**Road Traffic Congestion Analysis using Deep Learning**  
 Pre-proceedings · CCSN 2025
 
-**Hybrid CNN Framework for Detection of AI-Generated Imagery**
+**Hybrid CNN Framework for Detection of AI-Generated Imagery**  
 Presented · ICASET 2026
 
 ---
 
 ## Skills
 
-**Languages** — Python · C++ · JavaScript · MATLAB
+**Languages** — Python · C++ · JavaScript · MATLAB · Verilog
 
-**AI / ML** — PyTorch · TensorFlow · YOLOv8 · HuggingFace · OpenCV · scikit-learn · LangChain
-`Computer Vision` `Object Detection` `CBAM` `Medical Imaging` `Edge AI` `Grad-CAM` `Multi-Agent Systems`
+**AI / ML** — PyTorch · TensorFlow · snnTorch · hls4ml · YOLOv8 · HuggingFace · OpenCV · scikit-learn · LangChain  
+`Computer Vision` `Neuromorphic Computing` `SNN` `Medical Imaging` `Edge AI` `Grad-CAM` `Multi-Agent Systems`
 
-**Hardware & EDA** — NGSpice · OpenRAM
-`6T/8T SRAM` `Hardware-Software Co-design` `Memory Architecture`
+**Hardware & EDA** — Vivado · NGSpice · OpenRAM  
+`FPGA` `6T/8T SRAM` `Hardware-Software Co-design` `Memory Architecture`
 
 **Tools** — Git · Linux · Jupyter · Google Colab · FiftyOne
 
