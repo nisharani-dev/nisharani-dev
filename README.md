@@ -30,7 +30,6 @@
 
 | Project | Domain | Stack |
 |---|---|---|
-| 🛰 [aerial-object-detection-research](https://github.com/nisharani-dev/aerial-object-detection-research) | Computer Vision · UAV Imagery | YOLOv8n · CBAM · Pseudo-labeling · Grad-CAM |
 | 🧬 [HAM10000](https://github.com/nisharani-dev/HAM10000) — Skin Cancer Classification + SRAM Study | Edge AI · Medical Imaging · Hardware | EfficientNet-B0 · OpenRAM · NGSpice |
 | 🤖 [opalite.io](https://github.com/nisharani-dev/opalite.io) — AI Boardroom | Agentic AI · LLM Orchestration | Multi-Agent · CEO/CTO/Finance/Marketing Agents · LangChain · Python |
 
