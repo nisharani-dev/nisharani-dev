@@ -51,20 +51,6 @@ Presented · ICASET 2026
 
 ---
 
-## Skills
-
-**Languages** — Python · C++ · JavaScript · MATLAB · Verilog
-
-**AI / ML** — PyTorch · TensorFlow · snnTorch · hls4ml · YOLOv8 · HuggingFace · OpenCV · scikit-learn · LangChain  
-`Computer Vision` `Neuromorphic Computing` `SNN` `Medical Imaging` `Edge AI` `Grad-CAM` `Multi-Agent Systems`
-
-**Hardware & EDA** — Vivado · NGSpice · OpenRAM  
-`FPGA` `6T/8T SRAM` `Hardware-Software Co-design` `Memory Architecture`
-
-**Tools** — Git · Linux · Jupyter · Google Colab · FiftyOne
-
----
-
 ## GitHub Stats
 
 <div align="center">
