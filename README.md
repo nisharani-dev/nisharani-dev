@@ -14,7 +14,6 @@
 institution   B.Tech ECE (AI Specialization) · IGDTUW, Delhi
 research      Neuromorphic Computing · Edge AI · Agentic AI · Hardware-Software Co-design
 publications  2× Conference — CCSN 2025 · ICASET 2026
-interests     SNN-CNN tradeoffs · FPGA inference · Hierarchical memory systems
 </pre>
 
 ---
@@ -30,6 +29,8 @@ interests     SNN-CNN tradeoffs · FPGA inference · Hierarchical memory systems
 
 | Project | Domain | Stack |
 |---|---|---|
+| [HAM10000](https://github.com/nisharani-dev/HAM10000) — Skin Cancer Classification + SRAM Study | Edge AI · Medical Imaging · Hardware | EfficientNet-B0 · OpenRAM · NGSpice |
+| [opalite.io](https://github.com/nisharani-dev/opalite.io) — AI Boardroom | Agentic AI · LLM Orchestration | Multi-Agent · LangChain · Python |
 | Road Traffic Congestion Analysis | Traffic · Deep Learning | CNN · CCSN 2025 |
 | [real_vs_ai_image_classifier](https://github.com/nisharani-dev/real_vs_ai_image_classifier) — Hybrid CNN | Image Forensics | CNN · ICASET 2026 |
 | [mask-detection-project](https://github.com/nisharani-dev/mask-detection-project) | Computer Vision | OpenCV · CNN |
@@ -68,8 +69,7 @@ Presented · ICASET 2026
 
 <div align="center">
 
-![Nisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisharani-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B9FEA&icon_color=A3C4F3)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nisharani-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B9FEA)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nisharani-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=7B9FEA&fire=7B9FEA&currStreakLabel=7B9FEA)](https://git.io/streak-stats)
 
 </div>
 
