@@ -1,3 +1,13 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=7B9FEA&center=true&vCenter=true&width=600&lines=Nisha+Rani;ECE+%7C+AI+Specialization+%40+IGDTUW;Computer+Vision+%7C+Edge+AI+%7C+Agentic+AI)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=nisharani-dev&color=7B9FEA&style=flat-square)](https://github.com/nisharani-dev)
+[![GitHub followers](https://img.shields.io/github/followers/nisharani-dev?style=flat-square&color=7B9FEA)](https://github.com/nisharani-dev)
+[![GitHub stars](https://img.shields.io/github/stars/nisharani-dev?style=flat-square&color=7B9FEA)](https://github.com/nisharani-dev)
+
+</div>
+
 ---
 
 ## Active
