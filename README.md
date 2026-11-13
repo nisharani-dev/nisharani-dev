@@ -17,10 +17,10 @@ I enjoy research-driven engineering: understanding the underlying problem, exper
 
 Currently interested in:
 
-- **Neuromorphic & Edge AI** — Spiking neural networks, efficient inference, and hardware deployment.
-- **Computer Vision** — Medical imaging, synthetic-image detection, and visual intelligence.
-- **Agentic AI** — Context-aware agents, memory architectures, and intelligent workflows.
-- **Hardware–Software Co-design** — Understanding how hardware constraints shape machine-learning systems.
+- **Neuromorphic & Edge AI**- Spiking neural networks, efficient inference, and hardware deployment.
+- **Computer Vision**- Medical imaging, synthetic-image detection, and visual intelligence.
+- **Agentic AI**- Context-aware agents, memory architectures, and intelligent workflows.
+- **Hardware–Software Co-design**- Understanding how hardware constraints shape machine-learning systems.
 
 ---
 
