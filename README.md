@@ -1,78 +1,131 @@
-<div align="center">
+# Nisha Rani
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=7B9FEA&center=true&vCenter=true&width=600&lines=Nisha+Rani;ECE+%7C+AI+Specialization+%40+IGDTUW;Computer+Vision+%7C+Edge+AI+%7C+Agentic+AI)](https://git.io/typing-svg)
+**ECE (AI Specialization) @ IGDTUW**  
+*Building intelligent systems across software, hardware, and everything in between.*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nisharani-dev&color=7B9FEA&style=flat-square)](https://github.com/nisharani-dev)
-[![GitHub followers](https://img.shields.io/github/followers/nisharani-dev?style=flat-square&color=7B9FEA)](https://github.com/nisharani-dev)
-[![GitHub stars](https://img.shields.io/github/stars/nisharani-dev?style=flat-square&color=7B9FEA)](https://github.com/nisharani-dev)
-
-</div>
+**Computer Vision · Neuromorphic Computing · Edge AI · Agentic Systems**
 
 ---
 
-<pre>
-institution   B.Tech ECE (AI Specialization) · IGDTUW, Delhi
-research      Neuromorphic Computing · Edge AI · Agentic AI · Hardware-Software Co-design
-publications  2× Conference — CCSN 2025 · ICASET 2026
-</pre>
+## About
+
+I'm an undergraduate engineering student at **Indira Gandhi Delhi Technical University for Women (IGDTUW)**, exploring how artificial intelligence can move beyond models and become part of practical, efficient, and reliable systems.
+
+My interests sit at the intersection of **machine learning, computer vision, neuromorphic computing, hardware–software co-design, and LLM-based agents**.
+
+I enjoy research-driven engineering: understanding the underlying problem, experimenting with different approaches, and translating ideas into working implementations.
+
+Currently interested in:
+
+- **Neuromorphic & Edge AI** — Spiking neural networks, efficient inference, and hardware deployment.
+- **Computer Vision** — Medical imaging, synthetic-image detection, and visual intelligence.
+- **Agentic AI** — Context-aware agents, memory architectures, and intelligent workflows.
+- **Hardware–Software Co-design** — Understanding how hardware constraints shape machine-learning systems.
 
 ---
 
-## Active
+## Currently Building
 
-| Project | Domain | Stack |
+| Project | Focus | Technologies |
 |---|---|---|
-| BloodMNIST SNN-FPGA — CNN-to-SNN conversion & FPGA deployment for low-power medical inference | Neuromorphic Computing · Edge AI · Medical Imaging | EfficientNet-B0 · snnTorch · hls4ml · Vivado · Verilog |
-| [nexacore-ai-agent](https://github.com/nisharani-dev/nexacore-ai-agent) — Ramp: hierarchical onboarding memory agent | Agentic AI · LLM Systems | FastAPI · LangChain · Groq · React · WebSocket |
-
-## Past Work
-
-| Project | Domain | Stack |
-|---|---|---|
-| [HAM10000](https://github.com/nisharani-dev/HAM10000) — Skin Cancer Classification + SRAM Study | Edge AI · Medical Imaging · Hardware | EfficientNet-B0 · OpenRAM · NGSpice |
-| [opalite.io](https://github.com/nisharani-dev/opalite.io) — AI Boardroom | Agentic AI · LLM Orchestration | Multi-Agent · LangChain · Python |
-| Road Traffic Congestion Analysis | Traffic · Deep Learning | CNN · CCSN 2025 |
-| [real_vs_ai_image_classifier](https://github.com/nisharani-dev/real_vs_ai_image_classifier) — Hybrid CNN | Image Forensics | CNN · ICASET 2026 |
-| [mask-detection-project](https://github.com/nisharani-dev/mask-detection-project) | Computer Vision | OpenCV · CNN |
-| [emotion-detection-project](https://github.com/nisharani-dev/emotion-detection-project) | Affective Computing | CNN |
-| [Disease_predictor_project](https://github.com/nisharani-dev/Disease_predictor_project) | ML · Healthcare | scikit-learn |
-| [Waves](https://github.com/nisharani-dev/Waves_Proj) — [Pipeline Leak Detection](https://waves-proj.onrender.com) | IoT · Full-Stack · Mobile | Flutter · Node.js · Supabase |
-| [ElectroBits](https://github.com/nisharani-dev/Electrobits_SIH) — [IoT Power Line Monitor](https://electrobits-sih.onrender.com) | IoT · Real-time Systems | Arduino · Node.js · Socket.IO |
+| **BloodMNIST SNN–FPGA** | CNN-to-SNN conversion and FPGA-oriented deployment for energy-efficient medical inference | snnTorch, hls4ml, Vivado, Verilog |
+| **[nexacore-ai-agent](https://github.com/nisharani-dev/nexacore-ai-agent)** | *Ramp* — a hierarchical onboarding memory agent | FastAPI, LangChain, Groq, React, WebSocket |
+| **[The Climb](https://github.com/nisharani-dev/Climb-it)** | An immersive, story-driven 3D portfolio and interactive alpine world | React, Three.js, React Three Fiber, Blender |
 
 ---
 
-## Publications
+## Research & Selected Projects
+
+### Medical AI & Hardware-Aware Learning
+
+**[HAM10000 — Skin Cancer Classification & SRAM Study](https://github.com/nisharani-dev/HAM10000)**  
+Exploring medical image classification and inference reliability under SRAM hardware constraints.
+
+`EfficientNet-B0` · `OpenRAM` · `NGSpice` · `Hardware-Aware ML`
+
+### Computer Vision & Image Forensics
+
+**[AI-Generated Image Detection](https://github.com/nisharani-dev/real_vs_ai_image_classifier)**  
+Investigating visual patterns and learning-based approaches to distinguish synthetic imagery from authentic images.
+
+`Computer Vision` · `CNN` · `Image Forensics`
+
+**[Face Mask Detection](https://github.com/nisharani-dev/mask-detection-project)**  
+Computer vision pipeline for image-based mask detection.
+
+**[Emotion Detection](https://github.com/nisharani-dev/emotion-detection-project)**  
+Visual emotion classification using deep learning.
+
+### Intelligent Systems & Agents
+
+**[Opalite — AI Boardroom Simulator](https://github.com/nisharani-dev/opalite.io)**  
+An AI-powered boardroom simulation exploring collaborative reasoning and agent orchestration.
+
+`Multi-Agent Systems` · `LangChain` · `Python`
+
+**[Disease Predictor](https://github.com/nisharani-dev/Disease_predictor_project)**  
+A machine-learning project exploring healthcare prediction using structured data.
+
+### IoT & Applied Engineering
+
+**[WAVES — Pipeline Leak Detection](https://github.com/nisharani-dev/Waves_Proj)**  
+An IoT-enabled leakage detection system with a full-stack application.
+
+[Live Project](https://waves-proj.onrender.com)
+
+**[ElectroBits — Power Line Monitoring](https://github.com/nisharani-dev/Electrobits_SIH)**  
+An IoT-based monitoring system combining sensing, communication, and real-time visualization.
+
+[Live Project](https://electrobits-sih.onrender.com)
+
+---
+
+## Research Presentations
 
 **Road Traffic Congestion Analysis using Deep Learning**  
-Pre-proceedings · CCSN 2025
+*CCSN 2025 — Pre-proceedings*
 
 **Hybrid CNN Framework for Detection of AI-Generated Imagery**  
-Presented · ICASET 2026
+*ICASET 2026 — Presented*
+
+My research interests span intelligent transportation, trustworthy visual classification, and efficient medical AI.
 
 ---
 
-## GitHub Stats
+## Technical Toolkit
 
-<div align="center">
+| Area | Tools & Frameworks |
+|---|---|
+| **Programming** | Python, C++, SQL, JavaScript, Verilog |
+| **Machine Learning** | PyTorch, scikit-learn, XGBoost, snnTorch |
+| **Computer Vision** | OpenCV, CNNs, EfficientNet, MobileNet |
+| **LLM & Agent Systems** | LangChain, Groq, FastAPI, RAG |
+| **Hardware & Simulation** | OpenRAM, NGSpice, Vivado, hls4ml |
+| **Web & 3D** | React, Three.js, React Three Fiber, Blender |
+| **Data & Infrastructure** | PostgreSQL, Docker, Power BI, Tableau |
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nisharani-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=7B9FEA&fire=7B9FEA&currStreakLabel=7B9FEA)](https://git.io/streak-stats)
+---
 
-</div>
+## Beyond Research
+
+I also enjoy exploring the creative side of engineering.
+
+**The Climb — A Little World by Nisha** is my experiment in turning a traditional portfolio into an interactive 3D adventure, bringing together digital environments, storytelling, animation, and web graphics.
+
+It's a reminder that engineering can be both technically rigorous and deeply creative.
+
+---
+
+## GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nisharani-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=7B9FEA&fire=7B9FEA&currStreakLabel=7B9FEA)
 
 ---
 
 ## Connect
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nisharani-dev)
-
-</div>
+[**GitHub**](https://github.com/nisharani-dev) · [**Email**](mailto:nisha097bteceai24@igdtuw.ac.in)
 
 ---
 
-<div align="center">
-<sub><i>"Build on evidence. Question assumptions. Let the experiments speak."</i></sub>
-</div>
+*Build on evidence. Question assumptions. Let the experiments speak.*
